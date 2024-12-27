@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+        "k1ll1/helpers": "^1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}

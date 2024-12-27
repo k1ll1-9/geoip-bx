@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "318baa71cfa1bf1c718c0d333aa264f2",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "k1ll1/helpers",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/k1ll1-9/helpers.git",
+                "reference": "80160db16e7fdd8ec0d6f77fb4c9869d78dcda7d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/k1ll1-9/helpers/zipball/80160db16e7fdd8ec0d6f77fb4c9869d78dcda7d",
+                "reference": "80160db16e7fdd8ec0d6f77fb4c9869d78dcda7d",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "K11\\": "Lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "k1ll1",
+                    "email": "blazehardtoerase@gmail.com"
+                }
+            ],
+            "description": "helpers for web development",
+            "support": {
+                "issues": "https://github.com/k1ll1-9/helpers/issues",
+                "source": "https://github.com/k1ll1-9/helpers/tree/1.0.2"
+            },
+            "time": "2023-06-02T13:34:38+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

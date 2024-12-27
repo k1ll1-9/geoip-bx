@@ -1,0 +1,7 @@
+.idea
+.fleet
+logs
+.env
+bitrix
+upload
+/vendor/
